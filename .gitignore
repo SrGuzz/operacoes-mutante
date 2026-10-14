@@ -1,3 +1,6 @@
 node_modules/
 coverage/
 package-lock.json
+reports/
+reports-inicial/
+.stryker-tmp/
